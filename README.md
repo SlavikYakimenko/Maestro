@@ -2,4 +2,4 @@
 
 One page website about jewellery
 
-![alt text](last.jpg "Preview image")
+![alt text](images/last.png "Preview image")
